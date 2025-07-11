@@ -20,7 +20,7 @@ const About = () => {
 
         <div className="about-content">
           <p>
-            I'm Lemark Rosales, a passionate full-stack developer based in Manila, Philippines.
+            I'm Lemark Rosales, a passionate full-stack developer based in Cebu, Philippines.
             I specialize in creating exceptional digital experiences that are fast, accessible,
             and visually appealing.
           </p>
